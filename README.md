@@ -1,4 +1,4 @@
-## Bem-vindos(as) ao perfil do mano Matheus 🦖
+## Bem-vindo(a) ao perfil do mano Matheus 🦖
 
  <div>
    <a href="https://github.com/matheus-psantos">
